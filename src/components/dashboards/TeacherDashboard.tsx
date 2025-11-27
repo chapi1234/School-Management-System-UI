@@ -14,7 +14,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, Di
 import { Input } from '../ui/input';
 import { Label } from '../ui/label';
 import { Textarea } from '../ui/textarea';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 import { Progress } from '../ui/progress';
 import {
   mockTeachers,

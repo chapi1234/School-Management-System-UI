@@ -21,7 +21,7 @@ import { Assignment } from '../../lib/types';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter } from '../ui/dialog';
 import { Label } from '../ui/label';
 import { Textarea } from '../ui/textarea';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 
 interface StudentDashboardProps {
   activeTab: string;
