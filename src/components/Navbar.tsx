@@ -28,7 +28,7 @@ interface NavbarProps {
   notificationCount?: number;
   onMenuClick?: () => void;
 }
-
+                 
 export function Navbar({ 
   darkMode, 
   onToggleDarkMode, 
